@@ -1,4 +1,4 @@
-# powerbi_project
+# PowerBi_Projects
 - This repo contains the powerbi projects.
 - SalesInsights.pbix file is the dashboard for sales insights for the company Atliq company from year 2017 to 2020.
 - PowerBi is connected to **MySQL** database to get the data into the powerbi.
